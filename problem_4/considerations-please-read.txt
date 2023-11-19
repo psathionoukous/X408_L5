@@ -1,0 +1,18 @@
+Hello Professor Rines,
+
+I have edited the file with what I think is the appropriate solution ("base" is not a box name,
+unless you explicitly rename a box to be "base" but that seems outside the scope of this problem).
+
+I am still unable to properly use Vagrant on my M2 MacBook which is the only machine available to me.
+I can get past an initial error by specifying vmware as the provider and using v.gui = true but the VM never starts.
+
+Without that option it throws an error I cannot solve any other way.
+
+If I wanted to pretend I was deploying tons of machines at once and not have a GUI (setting it to false)
+I get an error that private networks are not supported on my platform.
+
+I will continue working on this to get Vagrant working as expected. For the time being my solution
+to problem 4 theoretically works but I cannot test it properly.
+
+Thanks,
+Ben Sathis
